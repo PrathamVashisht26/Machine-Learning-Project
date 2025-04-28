@@ -1,5 +1,5 @@
-IMDB Movies Sentiment Analysis 🎬🔍
-Overview
+                                IMDB Movies Sentiment Analysis 🎬🔍
+          Overview
 This project performs sentiment analysis on IMDB movie reviews to classify them as positive or negative.
 The goal is to build a machine learning model that can accurately predict the sentiment of unseen movie reviews.
 
